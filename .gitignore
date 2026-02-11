@@ -39,3 +39,21 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Project specific
+/prompt.md
+/DEVELOPMENT_PLAN.md
+/report.md
+/scripts/
+*.png
+!public/**/*.png
